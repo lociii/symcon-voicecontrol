@@ -6,7 +6,7 @@ include_once(__DIR__ . '/AlexaControlHandler.php');
 include_once(__DIR__ . '/AlexaHealthHandler.php');
 include_once(__DIR__ . '/AlexaErrorHandler.php');
 
-class VoiceControlService extends IPSBaseModule
+class VoiceControl extends IPSBaseModule
 {
     /**
      * Register module for OAuth client id
