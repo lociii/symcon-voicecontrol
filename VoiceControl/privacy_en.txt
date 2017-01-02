@@ -1,0 +1,12 @@
+This Alexa SmartHome skill does not gather any personal information.
+The data from the Amazon Voice Service is redirected from your device to your IPSymcon installation without saving them.
+
+You can check out all program code that is part of this process on:
+https://github.com/lociii/locisymcon/VoiceControlService
+
+AWS Lambda https://github.com/lociii/locisymcon/VoiceControlService/aws_lambda/lambda.py
+IPSymcon Modul https://github.com/lociii/locisymcon/VoiceControlService/module.php
+
+---
+
+Symcon, IP-Symcon and similar might be (registered) trademarks of Symcon GmbH, Willy-Brandt-Allee 31b, D-23554 Lübeck. This application is in no way related to Symcon GmbH.

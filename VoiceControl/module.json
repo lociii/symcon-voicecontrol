@@ -1,0 +1,14 @@
+{
+    "id": "{F5D60902-7A93-4A6E-87ED-08C53211071B}",
+    "name": "VoiceControl",
+    "type": 3,
+    "vendor": "",
+    "aliases": [
+        "Voice control",
+        "Alexa SmartHome"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "LOCIVC"
+}
