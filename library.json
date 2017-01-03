@@ -1,9 +1,17 @@
 {
-    "id": "{4FB897E2-C8D7-4870-BE6F-0DE86588B53F}",
-    "author": "Jens 'loci' Nistler",
-    "name": "Voice control",
-    "url": "http://github.com/lociii/symcon-voicecontrol",
-    "version": "1.0",
-    "build": 0,
-    "date": 0
+  "id": "{4FB897E2-C8D7-4870-BE6F-0DE86588B53F}",
+  "author": "Jens 'loci' Nistler",
+  "name": "VoiceControl",
+  "title": "Sprachsteuerung",
+  "description": "Steuerung von Symcon Geräten über Sprachbefehle mit dem Amazon Alexa Voice Service, z.B. einem Amazon Echo",
+  "url": "http://github.com/lociii/symcon-voicecontrol",
+  "version": "1.0",
+  "build": 0,
+  "date": 0,
+  "tags": [
+    "voicecontrol", "voice", "voice control",
+    "sprachsteuerung", "sprache",
+    "alexa", "amazon"
+  ],
+  "req_ips_version": "4.1"
 }
