@@ -1,10 +1,15 @@
+# UNMAINTAINED
+This project is not maintained anymore. Feel free to fork and use it.
+No support nor development will be done!
+
 # Voice control
 Steuerung von Symcon Geraeten ueber Sprachbefehle mit dem Amazon Alexa Voice Service, z.B. mit einem Amazon Echo
 
 ACHTUNG:
 
-Der entsprechende SmartHome Skill befindet sich aktuell in der Zertifizierung durch Amazon.
-Das Modul kann nur zusammen mit diesem Skill genutzt werden und hat daher aktuell noch keine Verwendung.
+Informationen zum Smart Home Skill finden sich im Verzeichnis aws_lambda.
+Das Modul kann nur zusammen mit diesem Skill genutzt werden.
+Der Skill wird nicht im Skills-Directory submitted.
 
 ### Inhaltverzeichnis
 
